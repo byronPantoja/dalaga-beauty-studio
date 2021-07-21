@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/dbp/Developer/Plan-B-Projects/dalaga-beauty-studio/web/node_modules/gatsby-source-sanity/gatsby-ssr'),
-      options: {"plugins":[],"projectId":"56xhfq3v","dataset":"production","watchMode":true,"overlayDrafts":true},
+      options: {"plugins":[],"projectId":"56xhfq3v","dataset":"production","token":"skocn05GHIn2qr8ca7U7UoJ2x2cM1cnCHOzPtT2vHDlT9tVP4x1HRnWdJlxlcx9KqDXAxgKNm7gVUzXDiDEWGtwsS4zO476Qd86oDUlMVwlrJe4fIVry83XqcdSQLAYIMapTva3mrI68CNUiJ88vvTMKUmJFKYhlcet5A5qoHVsayWvAaCgu","watchMode":true,"overlayDrafts":true},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
